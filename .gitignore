@@ -1,0 +1,15 @@
+hsi_20131028_012900_003.fits
+hsi_20131028_020100_003.fits
+hsi_20131028_203320_003.fits
+hsi_20131029_202420_003.fits
+hsi_20131029_215940_003.fits
+hsi_obssumm_20131028_062.fits
+hsi_obssumm_20131029_064.fits
+hsi_obssumm_filedb_201310.fits
+-rw-r--r-- 1 guigue solar 135K Dec  7 18:41 hsi_srm_20131028_010000.fits
+-rw-r--r-- 1 guigue solar  99K Dec  7 18:46 hsi_srm_20131028_200000.fits
+*~
+*TRK
+__pycache__
+poemas.save
+idlsave.dat
